@@ -1,0 +1,127 @@
+productionDate:= 	"05/15/2021"													
+testDate := 	"5/16/21"													
+previousDate:=	"05/14/2021"													
+Global Inititals														
+Inititals :=	""													
+L1shutdown:=	FALSE													
+L1Running:=	TRUE													
+														
+L1product:= 	"0152230000"													
+														
+L1cans := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L1Changeover1:= 	FALSE													
+														
+L1ProductChangeover1:= 	""													
+														
+L1cansCO1 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L1Changeover2:= 	FALSE													
+														
+L1ProductChangeover2:= 	""													
+														
+L1cansCO2 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+														
+														
+L2shutdown:=	FALSE													
+L2Running:=	TRUE													
+														
+L2product:= 	""													
+														
+L2cans := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L2Changeover1:= 	FALSE													
+														
+L2ProductChangeover1:= 	""													
+														
+L2cansCO1 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L2Changeover2:= 	FALSE													
+														
+L2ProductChangeover2:= 	""													
+														
+L2cansCO2 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+														
+L4shutdown:=	FALSE													
+L4Micro:=	TRUE													
+L4Running:=	TRUE													
+														
+L4product:= 	""													
+														
+L4cans := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L4Changeover1:= 	FALSE													
+														
+L4ProductChangeover1:= 	""													
+														
+L4cansCO1 := 	[]													
+														
+L4Changeover2:= 	FALSE													
+														
+L4ProductChangeover2:= 	""													
+														
+L4cansCO2 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+														
+L5shutdown:=	FALSE													
+L5Micro:=	TRUE													
+L5Running:=	TRUE													
+														
+L5product:= 	""													
+														
+L5cans := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L5Changeover1:= 	FALSE													
+														
+L5ProductChangeover1:= 	""													
+														
+L5cansCO1 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L5Changeover2:= 	FALSE													
+														
+L5ProductChangeover2:= 	""													
+														
+L5cansCO2 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+														
+L6shutdown:=	FALSE													
+L6Micro:=	TRUE													
+L6Running:=	TRUE													
+														
+L6product:= 	""													
+														
+L6cans := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L6Changeover1:= 	FALSE													
+														
+L6ProductChangeover1:= 	""													
+														
+L6cansCO1 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L6Changeover2:= 	FALSE													
+														
+L6ProductChangeover2:= 	""													
+														
+L6cansCO2 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+														
+L7shutdown:=	FALSE													
+L7Running:=	TRUE													
+														
+L7product:= 	""													
+														
+L7cans := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L7Changeover1:= 	FALSE													
+														
+L7ProductChangeover1:= 	""													
+														
+L7cansCO1 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
+														
+L7Changeover2:= 	FALSE													
+														
+L7ProductChangeover2:= 	""													
+														
+L7cansCO2 := 	[2300, 2330, 0000, 0030, 0100, 0130, 0200, 0230, 0300, 0330, 0400, 0430, 0500, 0530, 0600, 0630]													
